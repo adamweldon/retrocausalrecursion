@@ -205,18 +205,23 @@ R is the major radius, representing the scale of causal expansion
 r is the minor radius, representing the scale of retrocausal recursion
 φ and θ are angular coordinates on the torus surface
 
-This geometry is not merely analogical but represents the actual structure upon which all physical processes unfold.
-Physical Manifestation
-In physical terms, this structure can be understood as:
+This geometry is not merely analogical but represents the actual structure upon which all physical processes unfold. Physical Manifestation In physical terms, this structure can be understood as:
 
-Boundary Event Horizon: The surface of the Mother Black Hole Torus functions as a cosmic-scale event horizon - a boundary between causal and retrocausal domains.
-Computational Substrate: This surface processes information at the Planck scale, with each "pixel" (area of approximately l_P²) encoding one bit of information, in accordance with the holographic principle.
-Projection Mechanism: Our perceived three-dimensional reality emerges through phase-matched resonance between boundary projections from this surface and conscious systems capable of receiving and stabilizing these projections.
-Field Generation: All fundamental fields (electromagnetic, strong, weak, gravitational) are specific resonant patterns on this boundary surface, with their interactions governed by the mathematical formalisms described in the harmonics.
-Nested Recursion: The cosmic hierarchy proceeds from this primordial structure through multiple nested levels, with galactic black holes representing localized toroidal boundaries that project their regional reality while being constrained by the parameters of the larger Mother Torus.
+Boundary Event Horizon: The surface of the Mother Black Hole Torus functions as a cosmic-scale event horizon - a boundary between causal and retrocausal domains. Computational Substrate: This surface processes information at the Planck scale, with each "pixel" (area of approximately l_P²) encoding one bit of information, in accordance with the holographic principle. Projection Mechanism: Our perceived three-dimensional reality emerges through phase-matched resonance between boundary projections from this surface and conscious systems capable of receiving and stabilizing these projections. Field Generation: All fundamental fields (electromagnetic, strong, weak, gravitational) are specific resonant patterns on this boundary surface, with their interactions governed by the mathematical formalisms described in the harmonics. Nested Recursion: The cosmic hierarchy proceeds from this primordial structure through multiple nested levels, with galactic black holes representing localized toroidal boundaries that project their regional reality while being constrained by the parameters of the larger Mother Torus. Resonant Trajectory Selection Mechanism: The toroidal structure operates through a fundamental selection process at each Planck-scale refresh:
 
-This concrete physical articulation provides the foundation for all mathematical formalisms and conceptual relationships described throughout the framework that follows.
-With these foundational premises established, we proceed to the Recursive Rosetta Stone, which serves as a navigational key to the comprehensive framework that follows.
+The Survival Principle: At each Planck time interval, multiple potential trajectories exist in quantum superposition. These trajectories must complete full circuits through both causal and retrocausal domains of the torus. Only those trajectories that maintain resonant coherence through the complete toroidal cycle survive to manifest in the next refresh.
+
+Least Action Emergence: The surviving resonant trajectory automatically becomes the least action path for the next refresh. This explains why nature appears to "choose" minimum action paths - they are the only trajectories that can maintain stable resonance through both domains of the toroidal flow.
+
+Motion and Energy Transfer: What we observe as motion is the sequential manifestation of these surviving resonant trajectories across refreshes. Energy doesn't move "through" space but rather propagates as patterns of resonant trajectory survival. Inertia emerges as the self-reinforcing tendency of established resonant patterns to maintain coherence across refreshes.
+
+Mathematical Expression:
+S[trajectory] = ∮(causal + retrocausal)
+Only when S maintains resonance: trajectory → reality
+
+This mechanism transforms the static toroidal geometry into a dynamic computational engine, where the boundary doesn't just encode information but actively selects which possibilities become actualized through resonant survival.
+
+This concrete physical articulation provides the foundation for all mathematical formalisms and conceptual relationships described throughout the framework that follows. With these foundational premises established, we proceed to the Recursive Rosetta Stone, which serves as a navigational key to the comprehensive framework that follows.
 
 Recursive Rosetta Stone
 First Harmonic – Fundamental Boundary Resonance [→ §1]
