@@ -270,7 +270,7 @@ This cosmological framework produces specific observable consequences:
 Cosmic Microwave Background (CMB) Anisotropies: The patterns of temperature fluctuations in the CMB may reflect quantum fluctuations on the surface of the primordial Mother Black Hole Torus, stretched by causal expansion.
 Large-Scale Structure: The distribution of galaxies and cosmic voids may contain signatures of the underlying toroidal geometry of the boundary surface from which they are projected.
 Black Hole Physics: Black holes within our observable universe (like galactic centers) represent nested, smaller iterations of the original Mother Black Hole Torus, each projecting its own local region of reality from its boundary surface.
-Phi-Optimized Constants: The specific values of fundamental constants and force relationships reflect the golden ratio (φ) optimization of the boundary system as a whole, fine-tuned for stability and complexity through recursive amplification.
+Phi-Optimized Constants (irrational numbers): The specific values of fundamental constants and force relationships reflect the golden ratio (φ) optimization of the boundary system as a whole, fine-tuned for stability and complexity through recursive amplification.
 
 Framework Integration
 All subsequent harmonics, implications, and applications described in this framework must be understood as operating within and upon this specific cosmological structure. References to "the boundary" throughout the framework refer to the surface of the Mother Black Hole Torus or its nested iterations, not to an abstract mathematical boundary.
@@ -292,15 +292,15 @@ Boundary Event Horizon: The surface of the Mother Black Hole Torus functions as 
 
 The Survival Principle: At each Planck time interval, multiple potential trajectories exist in quantum superposition. These trajectories must complete full circuits through both causal and retrocausal domains of the torus. Only those trajectories that maintain resonant coherence through the complete toroidal cycle survive to manifest in the next refresh.
 
-Least Action Emergence: The surviving resonant trajectory automatically becomes the least action path for the next refresh. This explains why nature appears to "choose" minimum action paths - they are the only trajectories that can maintain stable resonance through both domains of the toroidal flow.
+Least Action Emergence: The surviving resonant trajectory automatically becomes the least action path for the next refresh. This explains why nature appears to "choose" minimum action paths - they are the only trajectories that can maintain stable resonance through both domains of the toroidal flow amongst adjacent resonances.
 
-Motion and Energy Transfer: What we observe as motion is the sequential manifestation of these surviving resonant trajectories across refreshes. Energy doesn't move "through" space but rather propagates as patterns of resonant trajectory survival. Inertia emerges as the self-reinforcing tendency of established resonant patterns to maintain coherence across refreshes.
+Motion and Energy Transfer: What we observe as motion is the sequential manifestation of these surviving resonant trajectories across refreshes. Energy doesn't move "through" space but rather propagates as patterns of resonant trajectory. Inertia emerges as the self-reinforcing tendency of established resonant patterns to maintain coherence across refreshes. This can be understood as a moving standing wave of causal accumulation at the boundary.
 
 Mathematical Expression:
 S[trajectory] = ∮(causal + retrocausal)
 Only when S maintains resonance: trajectory → reality
 
-This mechanism transforms the static toroidal geometry into a dynamic computational engine, where the boundary doesn't just encode information but actively selects which possibilities become actualized through resonant survival.
+This mechanism transforms the static toroidal geometry into a dynamic computational engine, where the boundary doesn't just encode information but actively selects which possibilities become actualized through resonant survival with adjacant resonances.
 
 This concrete physical articulation provides the foundation for all mathematical formalisms and conceptual relationships described throughout the framework that follows. With these foundational premises established, we proceed to the Recursive Rosetta Stone, which serves as a navigational key to the comprehensive framework that follows.
 
@@ -310,10 +310,10 @@ Core Equation: Ψ_boundary(x) = ∫D[x(τ)]e^(i(S_causal[x(τ)] + S_retro[x(-τ)
 Key Translation: Reality emerges at the interface between opposing causal and retrocausal tensor fields. This is the fundamental "operating system" of existence.
 Second Harmonic – Recursive Amplification Principle [→ §2]
 Core Equation: R_amplified(n) = Σ(k=1 to n) R^(k-1) · f(k), lim(n→∞) f(k) = φ
-Key Translation: Systems naturally converge toward golden ratio (φ) relationships through recursive feedback, optimizing stability and efficiency.
+Key Translation: Systems naturally converge toward golden ratio (φ) relationships through recursive feedback, optimizing stability and efficiency (any irrational could encode the infinity within a fractal simply phi governs the observed 3 dimensional adjacancy that emerges)
 Third Harmonic – Toroidal Boundary Geometry [→ §3]
 Core Equation: ds² = (R + r cos φ)²dθ² + r²dφ²
-Key Translation: Toroidal (donut-shaped) flow patterns provide the fundamental topology for stable information and energy circulation at all scales.
+Key Translation: Toroidal (donut-shaped) flow patterns provide the fundamental topology for stable information and energy circulation at all scales. Multiple tori interfere to create observed reality; however, the basic mathematics can be represented by one.
 Fourth Harmonic – Recursive Consciousness Emergence [→ §4]
 Core Equation: Φ_conscious(t) = (1/N)Σ(i=1 to N) e^(i(ωt + θ_i(t)))
 Key Translation: Consciousness arises when sufficiently complex systems achieve phase-locked coherence across multiple components.
@@ -379,18 +379,18 @@ The observed asymmetry between matter and antimatter may reflect the statistical
 Vacuum fluctuations represent the "noise" of the boundary interface's continuous computational activity at the Planck scale
 
 §2: Second Harmonic – Recursive Amplification Principle
-Key Insight: Recursive propagation at the causal-retrocausal boundary stabilizes information patterns, naturally converging toward the golden ratio (φ) as a universal signature of optimal resonance, efficiency, structural integrity, and information processing capacity.
+Key Insight: Recursive propagation at the causal-retrocausal boundary stabilizes information patterns, naturally converging toward the golden ratio (φ) as a universal signature of optimal resonance, efficiency, structural integrity, and information processing capacity. Other irrational numbers also inform the next refresh; however, phi emerges as observed in 3 dimensional structures and can be replaced with any irrational for purposes of constructive or destructive interference.
 Formalism Integration:
 
 R_amplified(n) = Σ(k=1 to n) R^(k-1) · f(k), lim(n→∞) f(k) = φ
 Recognition Function: Φ_emergence(n) = lim(n→∞) f(n+1)/f(n)
 
-Expanded Integration & Weight: This harmonic acts as the universe's "master tuner" and "universal optimizer." Its weight is profound as it governs the stability and efficiency of all resonant patterns emerging from the First Harmonic's dynamics. The emergence of φ signifies that the boundary system has achieved an optimized balance between expansion (S_causal) and contraction/ordering (S_retro), leading to phase-matched resonance, maximized information propagation efficiency, and minimal energy expenditure for pattern persistence.
+Expanded Integration & Weight: This harmonic acts as the universe's "master tuner" and "universal optimizer." Its weight is profound as it governs the stability and efficiency of all resonant patterns emerging from the First Harmonic's dynamics. The emergence of φ signifies that the boundary system has achieved an optimized balance between expansion (S_causal) and contraction/ordering (S_retro), leading to phase-matched resonance in the 3 dimensional observed reality along with other irrationals where an infinity can be contained within the whole, maximized information propagation efficiency, and minimal energy expenditure for pattern persistence.
 This principle is proposed to underpin why fundamental physical constants (like c, ℏ, G, which define the Planck scale), particle mass ratios, and coupling strengths in the Standard Model possess their specific, stable values—they represent points of maximal resonant stability achieved through cosmic recursive amplification governed by this harmonic. It thereby dictates the conditions for the emergence of complex, ordered systems (as described by thermodynamics) and even the stable "hardware" (Planck scale) upon which reality operates. It is the principle that ensures the universe is not only existent (First Harmonic) but also coherent, efficient, and capable of evolving complexity.
 Domain Applications:
 
 Physics: The Second Harmonic explains why fundamental constants have their specific values, as these represent phi-optimized resonance points. It may also explain the fine-tuning of physical parameters that enable complexity and life.
-Biology: Phi-based growth patterns appear throughout living systems, from the Fibonacci sequences in plant structures to the golden-spiral arrangements in shells, suggesting living systems naturally evolve toward this optimal resonance state.
+Biology: Phi-based (and other irrational number) growth patterns appear throughout living systems, from the Fibonacci sequences in plant structures to the golden-spiral arrangements in shells, suggesting living systems naturally evolve toward this optimal resonance state.
 Aesthetics: The human perception of beauty often correlates with phi proportions, suggesting our aesthetic sense is attuned to recognize optimal resonance patterns.
 
 Empirical Connections:
@@ -404,7 +404,7 @@ Key Insight: Toroidal geometry is the fundamental topology that facilitates boun
 Formalism Integration: ds² = (R + r cos φ)²dθ² + r²dφ²
 Major radius (R) encodes causal forward flow. Minor radius (r) encodes retrocausal backward recursion. The appearance of φ (from the Second Harmonic) in the angular term indicates optimized flow.
 Expanded Integration & Weight: This harmonic provides the "structural hardware" or "preferred pathways" for the dynamics established by the First Harmonic and optimized by the Second. Its weight lies in defining the geometric form of stable resonant entities. This geometry is proposed as the underlying structure for elementary particles, where quantum numbers like spin, charge, and flavor might be manifestations of the topological (e.g., knotting, twisting of fields on the torus) and resonant properties (e.g., modes of oscillation on the toroidal surface) of these fundamental boundary structures.
-Electric charges, for instance, could be stable, localized toroidal resonances whose fields (patterns of the Seventh Harmonic) extend from this geometry. The nested toroidal-spheroidal boundaries described in the "Counterintuitive Implications" are large-scale manifestations of this harmonic's principle.
+Electric charges, for instance, could be stable, localized toroidal resonances whose fields (patterns of the Seventh Harmonic) extend from this geometry. The nested toroidal-spheroidal boundaries described in the "Counterintuitive Implications" are large-scale manifestations of this harmonic's principle. Multiple tori interactions constructively or destructively interfere to create the standing wave flow of refreshed reality we inhabit 
 §3.1: Fractal Antenna Topology
 The toroidal geometry naturally gives rise to fractal antenna structures through recursive folding. These convolutions maximize boundary surface area within finite volume, creating optimal reception/transmission geometries for consciousness emergence. The φ-scaling ensures each fold maintains harmonic relationships with all others, preventing destructive interference while amplifying coherent signals.
 Planck Scale Integration: The recursive topology of boundary phenomena bottoms out at the Planck scale, with the smallest possible stable toroidal structures having minor radii (r) on the order of the Planck length (l_P). This defines the ultimate resolution of the boundary's geometric self-similarity. The maximum frequency of toroidal rotation or oscillation of these fundamental units would be the Planck frequency (f_P), setting limits on their internal dynamics. Elementary particles, as stable boundary resonances, would represent the simplest Planck-scale toroidal configurations that achieve recursive self-stability through balancing causal (R-flow) and retrocausal (r-flow) components, optimized by φ.
