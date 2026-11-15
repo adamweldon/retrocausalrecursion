@@ -1,3 +1,5 @@
+[Wording note, November 2026: in this repository, "retro" and "retrocausal" name how the hidden part of a loop would seem from inside that loop. Nothing is claimed to run backward in time. Read phrases such as "backward-flowing" or "from the future" in that sense. A few sentences below were reworded to match. See The_Record_Limit.pdf.]
+
 # RR-AdS/CFT: AdS/CFT with Retrocausal Shadows
 
 ## 1. Core Principle: Observational Incompleteness
@@ -12,7 +14,7 @@ Standard AdS/CFT assumes a duality where the boundary theory fully encodes the b
 
 ### Bulk (RR-AdS Space)
 - Geometry: AdS-like with causal and retrocausal light cones
-- Fields propagate both forward and backward in time
+- Fields propagate along both legs of the loop: the forward leg and the opposed leg, which would only seem backward in time from inside
 - Contains "complete" reality, but inaccessible in full to boundary observers
 - Retrocausal domain exists but cannot be directly observed
 
