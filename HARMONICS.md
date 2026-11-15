@@ -1,5 +1,7 @@
 # Harmonic Mapping
 
+> **Wording note (November 2026):** In this repository, "retro" and "retrocausal" name how the hidden part of a loop would seem from inside that loop. Nothing is claimed to run backward in time. Read phrases such as "backward-flowing" or "from the future" in that sense. See [The Record Limit](The_Record_Limit.pdf).
+
 Each document in this repository primarily embodies certain harmonics of the Resonant Recursion Framework. This mapping enables navigation by resonance rather than category.
 
 ---
@@ -109,7 +111,6 @@ Each document in this repository primarily embodies certain harmonics of the Res
 These documents contain all twelve harmonics in integrated form:
 
 - **[README](README.md)** — Primary framework exposition
-- **[v12](v12)** — Latest versioned complete framework
 - **[framework](framework)** — Core theoretical structure
 
 ---

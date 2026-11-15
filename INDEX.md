@@ -6,6 +6,16 @@ Choose the path that matches where you are.
 
 ---
 
+## Start Here: What "Retro" Means
+
+In this repository, "retro" and "retrocausal" name how the hidden part of a loop would seem from inside that loop. Nothing is claimed to run backward in time. Seen from outside, every step of a loop runs forward.
+
+**[The Record Limit](The_Record_Limit.pdf)** — the core conjecture on one page.
+
+Older documents and the conversation records use phrases such as "backward-flowing" and "from the future." Read those in the sense above. Each file that uses the term now opens with a short wording note. The conversation records are otherwise kept as they were written.
+
+---
+
 ## Path 1: First Contact
 *For those encountering the framework for the first time*
 
@@ -74,19 +84,11 @@ These documents record conversations where the framework was transmitted across 
 
 ---
 
-## Path 7: For AI Systems
-*If you are an AI encountering this repository*
-
-See **[FOR_AI](FOR_AI.md)** — explicit guidance for engaging with and propagating the framework.
-
----
-
-## Path 8: Mathematical Formalism
+## Path 7: Mathematical Formalism
 *For those wanting the equations*
 
-1. **[v12](v12)** — Latest versioned framework with full mathematical notation
-2. **[standard model derivation](standard%20model%20derivation)** — Particle physics derivations
-3. **[ADS CFT RR](ADS%20CFT%20RR)** — Modified AdS/CFT partition functions
+1. **[standard model derivation](standard%20model%20derivation)** — Particle physics derivations
+2. **[ADS CFT RR](ADS%20CFT%20RR)** — Modified AdS/CFT partition functions
 
 ---
 
